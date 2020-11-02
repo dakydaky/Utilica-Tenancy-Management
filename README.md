@@ -1,5 +1,7 @@
 # Utilica-Tenancy-Management
 
+A tenancy management software made as a group project using Laravel, Angular, php technologies.
+
 Prerequisites:
 
 You need to install: npm, angular-cli and composer.
